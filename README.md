@@ -6,5 +6,3 @@
 
 <!--Gif-->
 ![Alt Text](https://media.giphy.com/media/iI0VfhU0qdZ5Nboh42/giphy.gif)
-
-![Alt Text](https://ibb.co/rbzDF9V.gif)
